@@ -1,23 +1,27 @@
 {
-  "id": "tiger_data_mining",
-  "name": "Tiger Data mining",
-  "categoryId": "billing",
-  "description": "Re-contextualized client-driven parallelism",
-  "investment_24m": "625",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Rolfe Fransewich",
-  "licensing_cost": "240",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "245",
-  "deployment_date": "21/4/15",
-  "end_of_maintenance": "25/9/17",
-  "department": "Business Development",
-  "status": "Active",
-  "end_of_life": "6/8/19",
-  "vendor_email": "Rolfe.Fransewich@Splunk.com",
-  "months_to_renew_support": "25",
-  "sme_email": "Keefe.Vanes@memento.net.au",
-  "vendor_phone": "+62 436 105 9432",
-  "investment_number": "140"
+  "applications": [
+    {
+      "id": "tiger_data_mining",
+      "name": "Tiger Data mining",
+      "categoryId": "billing",
+      "description": "Re-contextualized client-driven parallelism",
+      "investment_24m": "625",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Rolfe Fransewich",
+      "licensing_cost": "240",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "245",
+      "deployment_date": "21/4/15",
+      "end_of_maintenance": "25/9/17",
+      "department": "Business Development",
+      "status": "Active",
+      "end_of_life": "6/8/19",
+      "vendor_email": "Rolfe.Fransewich@Splunk.com",
+      "months_to_renew_support": "25",
+      "sme_email": "Keefe.Vanes@memento.net.au",
+      "vendor_phone": "+62 436 105 9432",
+      "investment_number": "140"
+    }
+  ]
 }
