@@ -21,7 +21,28 @@
       "months_to_renew_support": "25",
       "sme_email": "Keefe.Vanes@memento.net.au",
       "vendor_phone": "+62 436 105 9432",
-      "investment_number": "140"
+      "investment_number": "140",
+      "integrations": [
+        {
+          "id": "int-213",
+          "name": "INT-213",
+          "categoryId": "cfecb993-3f2a-4a06-83db-c9a48bf8ddad",
+          "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
+          "sourceApplicationId": "tiger_data_mining",
+          "targetApplicationId": "veribet",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "17/11/03",
+          "sme_name": "Guenna Kix",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "System Control",
+          "status": "Active",
+          "sme_email": "gkixg@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "19/1/15"
+        }
+      ]
     }
   ]
 }
