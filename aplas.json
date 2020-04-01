@@ -28,7 +28,6 @@
           "name": "INT-213",
           "categoryId": "cfecb993-3f2a-4a06-83db-c9a48bf8ddad",
           "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",
-          "sourceApplicationId": "tiger_data_mining",
           "targetApplicationId": "veribet",
           "logical_server": "CLOUD-B2B",
           "status_color": "#00FF00",
